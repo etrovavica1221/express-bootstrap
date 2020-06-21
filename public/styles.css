@@ -1,0 +1,12 @@
+body {
+  width: 100%;
+  height: 100vh;
+  background-image: url('./ChuckNorris.jpeg');
+  background-position: right bottom;
+  background-repeat: no-repeat;
+  background-color: white;
+  color: rgb(4, 4, 102);
+  font-size: 45px;
+  font-weight: bolder;
+  text-align: center;
+}
